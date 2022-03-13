@@ -1,0 +1,17 @@
+From counting the cells manually, with a bit of knowledge:
+
+* 5 min google research about what a nucleus is
+* Looking at 2 or 3 google images of textbook examples of nucleii
+* One or two scientific articles about Ethidium Bromide (probably the stuff used in the images)
+* Just overall highschool-grade biolgy
+
+General method:
+* Consider that a glob of relatively-fluorescent material (red channel) is a nucleus
+* Brighter spots inside a glob are ot new nucleii, just the nucleus core
+* Nucleii don't naturally form "hourglass" shapes, so if there is such a shape i consider there are 2 nucleii close together.
+
+image, count
+1 , 16
+2 , 31
+3 , 20
+4 , 18
